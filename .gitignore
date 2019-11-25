@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+.python-version
+pdf_original/
+pdf_decrypted/
+password.json
