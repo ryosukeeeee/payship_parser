@@ -23,7 +23,7 @@ password.jsonの `pass` にパスワードを入力
 ## example
 
 ```
-python main.py
+$ python main.py
 ```
 
 ## 参考
